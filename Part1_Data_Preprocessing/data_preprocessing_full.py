@@ -2,7 +2,6 @@
 """
 Created on Fri Sep 14 11:33:33 2018
 
-@author: Thu Trang
 """
 
 #Data Preprocessing
